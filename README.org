@@ -3,8 +3,9 @@
 Fresnel implements lenses: lossless, composable bidirectional
 translations.
 
+
 |---------+---------------------------------------------------------|
 | source  | git:https://gitlab.com/GrammaTech/Mnemosyne/fresnel.git |
-| commit  | d953da38206630b1bc834eab34c1855322bac3a2                |
+| commit  | d953da3                                                 |
 | systems | fresnel                                                 |
 |---------+---------------------------------------------------------|
